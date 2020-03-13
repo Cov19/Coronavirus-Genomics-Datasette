@@ -1,4 +1,4 @@
-# Datasette for CSV files
+# Coronavirus Genomics Datasette
 
 The following was a Datasette that has been setup for [GISAID](https://www.gisaid.org/epiflu-applications/next-hcov-19-app/) data, which I orginally found through exploring the repo [here](https://github.com/nextstrain/ncov) and its source dataset. GISAID is the origin source of these data files, and they were just converted to CSV and transferred to the Datasette instance for researchers to easily use and setup their own Datasette insances.
 
