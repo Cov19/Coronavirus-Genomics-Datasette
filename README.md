@@ -1,8 +1,6 @@
 # Datasette for CSV files
 
-Drag and drop any CSV files you like to this project root and they will be converted into a SQLite database and loaded into a Datasette instance.
-
-Hit this Remix button to get your own copy of this project:
+The following was a Datasette that has been setup for [GISAID](https://www.gisaid.org/epiflu-applications/next-hcov-19-app/) data, which I orginally found through exploring the repo [here](https://github.com/nextstrain/ncov) and its source dataset. GISAID is the origin source of these data files, and they were just converted to CSV and transferred to the Datasette instance for researchers to easily use and setup their own Datasette insances.
 
 [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/remix/datasette-csvs)
 
