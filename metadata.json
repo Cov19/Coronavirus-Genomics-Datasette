@@ -1,0 +1,4 @@
+{
+  "title": "datasette-csvs",
+  "description_html": "<p>An example of how to run <a href=\"https://datasette.readthedocs.io/\">Datasette</a> on Glitch.</p><p>Hit the Remix button to get your own copy of this project, then drag-and-drop your CSV files into the Glitch editor to start interacting with your own data.<p><a href=\"https://glitch.com/edit/#!/remix/datasette-csvs\"><img src=\"https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg\" alt=\"Remix on Glitch\" /></a></p>"
+}
